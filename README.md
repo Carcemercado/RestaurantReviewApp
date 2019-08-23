@@ -23,18 +23,12 @@ main.js - TBD.
 
 restaurant_info - TBD.
 
-### Images
-
-Restaurant photos.
-
-### Data
-
 restaurants - JSON file.
-
-### CSS
 
 styles.css
 
 ## Tools
 
+HTML
 Python
+JavaScript
