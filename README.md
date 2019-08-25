@@ -12,19 +12,11 @@ TBD
 
 ## Code
 
-* HTML
-
-  index.html
-  
-  restaurant.html
+* HTML - index.html, restaurant.html
 
 * JavaScript
 
-  main.js
-  
-  restaurant_info.js
-  
-  dbhelper.js
+  main.js, restaurant_info.js, dbhelper.js
 
 * JSON
 
