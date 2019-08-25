@@ -15,12 +15,15 @@ TBD
 * HTML
 
   index.html
+  
   restaurant.html
 
 * JavaScript
 
   main.js
+  
   restaurant_info.js
+  
   dbhelper.js
 
 * restaurants.json
