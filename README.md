@@ -28,11 +28,11 @@ TBD
 
 * JSON
 
-restaurants.json
+  restaurants.json
 
 * CSS
 
-style.css
+  style.css
 
 ## Tools
 
