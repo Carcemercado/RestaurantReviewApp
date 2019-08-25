@@ -14,17 +14,11 @@ TBD
 
 * HTML - index.html, restaurant.html
 
-* JavaScript
+* JavaScript - main.js, restaurant_info.js, dbhelper.js
 
-  main.js, restaurant_info.js, dbhelper.js
+* JSON - restaurants.json
 
-* JSON
-
-  restaurants.json
-
-* CSS
-
-  style.css
+* CSS - style.css
 
 ## Tools
 
