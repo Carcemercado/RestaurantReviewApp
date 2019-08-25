@@ -12,8 +12,16 @@ TBD
 
 ## Code
 
-RBD
+* index.html
+* restaurant.html
 
+* main.js
+* restaurant_info.js
+* dbhelper.js
+
+* restaurants.json
+
+* style.css
 
 ## Tools
 
