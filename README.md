@@ -26,9 +26,13 @@ TBD
   
   dbhelper.js
 
-* restaurants.json
+* JSON
 
-* style.css
+restaurants.json
+
+* CSS
+
+style.css
 
 ## Tools
 
